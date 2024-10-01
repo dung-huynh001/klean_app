@@ -1,0 +1,108 @@
+2024/07/16	11:19:56	-->	AuthService.cs	POST 	GUEST     	<LoginAsync>	Line: 61	Username or password is incorrect
+
+2024/07/16	11:20:16	-->	AuthService.cs	POST 	GUEST     	<LoginAsync>	Line: 61	Username or password is incorrect
+
+2024/07/16	11:20:49	-->	AuthService.cs	POST 	GUEST     	<LoginAsync>	Line: 61	Username or password is incorrect
+
+2024/07/16	11:20:56	-->	AuthService.cs	POST 	GUEST     	<LoginAsync>	Line: 61	Username or password is incorrect
+
+2024/07/16	11:21:53	-->	AuthService.cs	POST 	GUEST     	<LoginAsync>	Line: 61	Username or password is incorrect
+
+2024/07/16	11:23:42	-->	AuthService.cs	POST 	GUEST     	<LoginAsync>	Line: 61	Username or password is incorrect
+
+2024/07/16	11:24:41	-->	AuthService.cs	POST 	GUEST     	<LoginAsync>	Line: 61	Username or password is incorrect
+
+2024/07/16	11:25:20	-->	AuthService.cs	POST 	GUEST     	<LoginAsync>	Line: 61	Username or password is incorrect
+
+2024/07/16	11:25:55	-->	AuthService.cs	POST 	GUEST     	<LoginAsync>	Line: 61	Username or password is incorrect
+
+2024/07/16	11:26:20	-->	AuthService.cs	POST 	GUEST     	<LoginAsync>	Line: 61	Username or password is incorrect
+
+2024/07/16	11:27:44	-->	AuthService.cs	POST 	GUEST     	<LoginAsync>	Line: 61	Username or password is incorrect
+
+2024/07/16	11:29:52	-->	AuthService.cs	POST 	GUEST     	<LoginAsync>	Line: 61	Username or password is incorrect
+
+2024/07/16	11:31:18	-->	AuthService.cs	POST 	GUEST     	<LoginAsync>	Line: 61	Username or password is incorrect
+
+2024/07/16	11:33:04	-->	__unknown__	POST 	GUEST     		Line: 0	Serialization and deserialization of 'System.Reflection.MethodBase' instances is not supported. Path: $.TargetSite.
+
+2024/07/16	11:34:13	-->	__unknown__	POST 	GUEST     		Line: 0	Serialization and deserialization of 'System.Reflection.MethodBase' instances is not supported. Path: $.TargetSite.
+
+2024/07/16	11:42:21	-->	AuthService.cs	POST 	GUEST     	<LoginAsync>	Line: 61	Username or password is incorrect
+
+2024/07/16	11:42:55	-->	AuthService.cs	POST 	GUEST     	<LoginAsync>	Line: 61	Username or password is incorrect
+
+2024/07/16	11:42:59	-->	AuthService.cs	POST 	GUEST     	<LoginAsync>	Line: 61	Username or password is incorrect
+
+2024/07/16	11:43:08	-->	AuthService.cs	POST 	GUEST     	<LoginAsync>	Line: 61	Username or password is incorrect
+
+2024/07/16	11:44:07	-->	AuthService.cs	POST 	GUEST     	<LoginAsync>	Line: 61	Username or password is incorrect
+
+2024/07/16	11:44:16	-->	AuthService.cs	POST 	GUEST     	<LoginAsync>	Line: 61	Username or password is incorrect
+
+2024/07/16	11:46:21	-->	AuthService.cs	POST 	GUEST     	<LoginAsync>	Line: 61	Username or password is incorrect
+
+2024/07/16	11:46:27	-->	AuthService.cs	POST 	GUEST     	<LoginAsync>	Line: 61	Username or password is incorrect
+
+2024/07/16	11:47:03	-->	AuthService.cs	POST 	GUEST     	<LoginAsync>	Line: 61	Username or password is incorrect
+
+2024/07/16	11:47:20	-->	AuthService.cs	POST 	GUEST     	<LoginAsync>	Line: 61	Username or password is incorrect
+
+2024/07/16	11:48:14	-->	AuthService.cs	POST 	GUEST     	<LoginAsync>	Line: 61	Username or password is incorrect
+
+2024/07/16	11:48:59	-->	AuthService.cs	POST 	GUEST     	<LoginAsync>	Line: 61	Username or password is incorrect
+
+2024/07/16	11:49:19	-->	AuthService.cs	POST 	GUEST     	<LoginAsync>	Line: 61	Username or password is incorrect
+
+2024/07/16	11:49:36	-->	AuthService.cs	POST 	GUEST     	<LoginAsync>	Line: 61	Username or password is incorrect
+
+2024/07/16	11:49:42	-->	AuthService.cs	POST 	GUEST     	<LoginAsync>	Line: 61	Username or password is incorrect
+
+2024/07/16	11:49:49	-->	AuthService.cs	POST 	GUEST     	<LoginAsync>	Line: 61	Username or password is incorrect
+
+2024/07/16	11:51:17	-->	AuthService.cs	POST 	GUEST     	<LoginAsync>	Line: 61	Username or password is incorrect
+
+2024/07/16	11:52:38	-->	AuthService.cs	POST 	GUEST     	<LoginAsync>	Line: 61	Username or password is incorrect
+
+2024/07/16	11:52:43	-->	AuthService.cs	POST 	GUEST     	<LoginAsync>	Line: 61	Username or password is incorrect
+
+2024/07/16	11:53:22	-->	AuthService.cs	POST 	GUEST     	<LoginAsync>	Line: 61	Username or password is incorrect
+
+2024/07/16	11:53:32	-->	AuthService.cs	POST 	GUEST     	<LoginAsync>	Line: 61	Username or password is incorrect
+
+2024/07/16	11:53:33	-->	AuthService.cs	POST 	GUEST     	<LoginAsync>	Line: 61	Username or password is incorrect
+
+2024/07/16	11:53:36	-->	AuthService.cs	POST 	GUEST     	<LoginAsync>	Line: 61	Username or password is incorrect
+
+2024/07/16	11:54:04	-->	AuthService.cs	POST 	GUEST     	<LoginAsync>	Line: 61	Username or password is incorrect
+
+2024/07/16	11:54:22	-->	AuthService.cs	POST 	GUEST     	<LoginAsync>	Line: 61	Username or password is incorrect
+
+2024/07/16	11:54:40	-->	AuthService.cs	POST 	GUEST     	<LoginAsync>	Line: 61	Username or password is incorrect
+
+2024/07/16	11:55:17	-->	AuthService.cs	POST 	GUEST     	<LoginAsync>	Line: 61	Username or password is incorrect
+
+2024/07/16	11:55:22	-->	AuthService.cs	POST 	GUEST     	<LoginAsync>	Line: 61	Username or password is incorrect
+
+2024/07/16	11:55:43	-->	AuthService.cs	POST 	GUEST     	<LoginAsync>	Line: 61	Username or password is incorrect
+
+2024/07/16	11:55:44	-->	AuthService.cs	POST 	GUEST     	<LoginAsync>	Line: 61	Username or password is incorrect
+
+2024/07/16	11:55:45	-->	AuthService.cs	POST 	GUEST     	<LoginAsync>	Line: 61	Username or password is incorrect
+
+2024/07/16	11:55:45	-->	AuthService.cs	POST 	GUEST     	<LoginAsync>	Line: 61	Username or password is incorrect
+
+2024/07/16	11:55:45	-->	AuthService.cs	POST 	GUEST     	<LoginAsync>	Line: 61	Username or password is incorrect
+
+2024/07/16	11:55:46	-->	AuthService.cs	POST 	GUEST     	<LoginAsync>	Line: 61	Username or password is incorrect
+
+2024/07/16	11:55:46	-->	AuthService.cs	POST 	GUEST     	<LoginAsync>	Line: 61	Username or password is incorrect
+
+2024/07/16	11:55:46	-->	AuthService.cs	POST 	GUEST     	<LoginAsync>	Line: 61	Username or password is incorrect
+
+2024/07/16	11:55:47	-->	AuthService.cs	POST 	GUEST     	<LoginAsync>	Line: 61	Username or password is incorrect
+
+2024/07/16	11:56:45	-->	AuthService.cs	POST 	GUEST     	<LoginAsync>	Line: 61	Username or password is incorrect
+
+2024/07/16	11:56:48	-->	AuthService.cs	POST 	GUEST     	<LoginAsync>	Line: 61	Username or password is incorrect
+

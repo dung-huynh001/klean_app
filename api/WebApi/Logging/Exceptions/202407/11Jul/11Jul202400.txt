@@ -1,0 +1,19 @@
+7/11/2024	12:10:03 AM	-->	__unknown__	POST 	GUEST     		Line: 0	Unable to resolve service for type 'WebApi.Services.AuthService' while attempting to activate 'WebApi.Controllers.AuthController'.
+
+7/11/2024	12:10:25 AM	-->	__unknown__	POST 	GUEST     		Line: 0	Unable to resolve service for type 'WebApi.Services.AuthService' while attempting to activate 'WebApi.Controllers.AuthController'.
+
+7/11/2024	12:10:42 AM	-->	__unknown__	POST 	GUEST     		Line: 0	Unable to resolve service for type 'WebApi.Services.AuthService' while attempting to activate 'WebApi.Controllers.AuthController'.
+
+7/11/2024	12:15:03 AM	-->	__unknown__	POST 	GUEST     		Line: 0	Unable to resolve service for type 'WebApi.Services.AuthService' while attempting to activate 'WebApi.Controllers.AuthController'.
+
+7/11/2024	12:15:32 AM	-->	__unknown__	POST 	GUEST     		Line: 0	Unable to resolve service for type 'WebApi.Services.AuthService' while attempting to activate 'WebApi.Controllers.AuthController'.
+
+7/11/2024	12:43:57 AM	-->	__unknown__	POST 	GUEST     		Line: 0	The LINQ expression 'DbSet<AppUser>()
+    .Where(a => a.Username.Equals(
+        value: __model_Username_0, 
+        comparisonType: OrdinalIgnoreCase))' could not be translated. Additional information: Translation of the 'string.Equals' overload with a 'StringComparison' parameter is not supported. See https://go.microsoft.com/fwlink/?linkid=2129535 for more information. Either rewrite the query in a form that can be translated, or switch to client evaluation explicitly by inserting a call to 'AsEnumerable', 'AsAsyncEnumerable', 'ToList', or 'ToListAsync'. See https://go.microsoft.com/fwlink/?linkid=2101038 for more information.
+
+7/11/2024	12:53:03 AM	-->	__unknown__	POST 	GUEST     	<ConsumeResultSetAsync>	Line: 0	An error occurred while saving the entity changes. See the inner exception for details.
+
+7/11/2024	12:53:50 AM	-->	__unknown__	POST 	GUEST     	<ConsumeResultSetAsync>	Line: 0	An error occurred while saving the entity changes. See the inner exception for details.
+

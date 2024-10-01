@@ -1,0 +1,10 @@
+2024/08/12	15:31:26	-->	__unknown__	GET  	GUEST     		Line: 0	Unable to resolve service for type 'WebApi.Services.UserService' while attempting to activate 'WebApi.Controllers.UserController'.
+
+2024/08/12	15:31:52	-->	__unknown__	GET  	GUEST     		Line: 0	Unable to resolve service for type 'WebApi.Services.UserService' while attempting to activate 'WebApi.Controllers.UserController'.
+
+2024/08/12	15:33:38	-->	__unknown__	GET  	GUEST     		Line: 0	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+
+2024/08/12	15:34:55	-->	__unknown__	GET  	GUEST     	<ExecuteAsync>	Line: 0	An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure' to the 'UseSqlServer' call.
+
+2024/08/12	15:39:06	-->	UserService.cs	GET  	GUEST     	<GetUserByIdAsync>	Line: 47	Not found user with id = 1234567812
+

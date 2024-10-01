@@ -1,0 +1,13 @@
+2024/07/11	16:23:38	-->	__unknown__	POST 	GUEST     		Line: 0	The LINQ expression 'DbSet<AppUser>()
+    .Where(a => a.Username.Equals(
+        value: __dto_Username_0, 
+        comparisonType: OrdinalIgnoreCase))' could not be translated. Additional information: Translation of the 'string.Equals' overload with a 'StringComparison' parameter is not supported. See https://go.microsoft.com/fwlink/?linkid=2129535 for more information. Either rewrite the query in a form that can be translated, or switch to client evaluation explicitly by inserting a call to 'AsEnumerable', 'AsAsyncEnumerable', 'ToList', or 'ToListAsync'. See https://go.microsoft.com/fwlink/?linkid=2101038 for more information.
+
+2024/07/11	16:29:54	-->	__unknown__	POST 	GUEST     		Line: 0	Sequence contains no elements
+
+2024/07/11	16:30:19	-->	__unknown__	POST 	GUEST     		Line: 0	Sequence contains no elements
+
+2024/07/11	16:31:18	-->	__unknown__	POST 	GUEST     		Line: 0	Sequence contains no elements
+
+2024/07/11	16:31:30	-->	__unknown__	POST 	GUEST     		Line: 0	Sequence contains no elements
+

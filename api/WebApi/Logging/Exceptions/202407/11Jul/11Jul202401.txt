@@ -1,0 +1,4 @@
+7/11/2024	1:00:05 AM	-->	AuthService.cs	POST 	GUEST     	<RegisterAsync>	Line: 39	Username already taken
+
+7/11/2024	1:00:08 AM	-->	AuthService.cs	POST 	GUEST     	<RegisterAsync>	Line: 39	Username already taken
+
