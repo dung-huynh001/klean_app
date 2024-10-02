@@ -22,7 +22,7 @@ namespace WebApi.Controllers
 			return Ok(profile);
 		}
 
-		[HttpPatch("UpdateProfile/{id}")]
+		[HttpPost("UpdateProfile/{id}")]
 		public async Task<IActionResult> UpdateProfile(int id, UpdateProfileDto dto)
 		{
 			ApiResponse<UpdateProfileDto> response = await _profileService.UpdateProfile(id, dto);

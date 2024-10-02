@@ -3,7 +3,6 @@
 	public class UpdateProfileDto
 	{
 		public int UserId { get; set; }
-		public string Username { get; set; }
 		public DateTime DateOfBirth { get; set; }
 		public string? ContactMobile { get; set; }
 		public string? ContactTel { get; set; }

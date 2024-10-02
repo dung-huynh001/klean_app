@@ -115,7 +115,7 @@ class UserProfileProvider with ChangeNotifier {
     notifyListeners();
   }
 
-  void updateProfile1() {
+  Future<void> updateProfile1() async {
     dobError = null;
     addressStateError = null;
     addressSuburbError = null;
@@ -136,10 +136,25 @@ class UserProfileProvider with ChangeNotifier {
     }
     contactMobile = mobileController.text;
     contactTel = telController.text;
-
     addressDetail = addressDetailController.text;
-    print(
-        '$dateOfBirth $contactMobile $contactTel $addressState $addressSuburb $addressDetail');
+
+    var body = {
+      'userId': userId,
+      'dateOfBirth': dateOfBirth?.toIso8601String(),
+      'contactMobile': contactMobile,
+      'contactTel': contactTel, 
+      'contactEmail': contactEmail, 
+      'addressState': addressState,
+      'addressSuburb': addressSuburb,
+      'addressDetail': addressDetail,
+      'postCode': VNAddress.getPostCode(int.parse(addressState.toString()), int.parse(addressSuburb.toString())),
+    };
+
+    String? token = await TokenService.getToken();
+    Map<String, dynamic>? tokenData = await TokenService.getTokenData();
+    var uId = int.parse(tokenData?['nameidentifier']);
+
+    var response = await request.post('api/Profile/UpdateProfile/$uId', body, token);
   }
 
   Future<void> pickDOB(BuildContext context) async {
@@ -153,32 +168,7 @@ class UserProfileProvider with ChangeNotifier {
     if (picked != null && picked != dateOfBirth) {
       dateOfBirth = picked;
       dateOfBirthController.text =
-          DateFormat('yyyy/MM/dd').format(picked);
+          DateFormat('dd/MM/yyyy').format(picked);
     }
-  }
-
-  bool _isInputValid(String val, {int minLength = 8}) {
-    return val.isNotEmpty && val.length >= minLength;
-  }
-
-  void updateProfile({
-    required String mobile,
-    required String email,
-    required String addressState,
-    required String addressSuburb,
-    required String addressDetail,
-  }) {
-    contactMobile = mobile;
-    contactTel = email;
-    addressState = addressState;
-    addressSuburb = addressSuburb;
-    addressDetail = addressDetail;
-
-    print(
-        '$contactMobile $contactTel $addressState $addressSuburb $addressDetail');
-
-    changeMode();
-
-    notifyListeners(); // Thông báo cho tất cả các widget đang lắng nghe
-  }
+  }  
 }
